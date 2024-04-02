@@ -15,6 +15,5 @@ public class Strings {
 
         System.out.println(wordFind);
 
-
     }
 }
