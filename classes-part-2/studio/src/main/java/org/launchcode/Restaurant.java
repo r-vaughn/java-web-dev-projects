@@ -1,18 +1,16 @@
 package org.launchcode;
 
-public class Main {
+public class Restaurant {
 
     public static void main(String[] args) {
         // write your code here
     }
 }
 
-
-
-
-
-
 // 1. The menu consists of several menu items.
+//
+//      spaghetti, alfredo, NEW
+//
 // 2. Each menu item has a price, description, and category (appetizer, main course, or dessert)
 // 3. It should be possible to display whether a menu item is new or not.
 // 4. The app should know when the menu was last updated, so visitors can see that the
@@ -24,4 +22,4 @@ public class Main {
 // several choices for each - standards + one daily "special" to choose from
 
 // Menu should have appetizers, main course, dessert
-// Each MenuItem should have: Category, Title, Description, and a price
+// Each MenuItem should have: Category, Title, Description, and a price.
