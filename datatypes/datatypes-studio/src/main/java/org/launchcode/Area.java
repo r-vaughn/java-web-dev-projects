@@ -14,6 +14,7 @@ public class Area {
         radius = input.nextDouble();
         input.close();
 
+
 //        area = (radius * radius * pi);
         area = Circle.getArea(radius);
         System.out.println("The area of a circle with the radius " + radius + "is: " + area);
