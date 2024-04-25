@@ -29,7 +29,7 @@ public class Student {
                 return numberOfCredits;
         }
 
-        public void setNumberOfCredits(int numberOfCredits) {
+        private void setNumberOfCredits(int numberOfCredits) {
                 this.numberOfCredits = numberOfCredits;
         }
 
